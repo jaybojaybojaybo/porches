@@ -1,5 +1,10 @@
-body {
-  background-image: image(../img/porches-wide.png);
-  background-repeat: no-repeat;
-  
+h1 {
+  color: red;
+}
+
+.sidebar {
+  color: red;
+  width: 30%;
+  float: left;
+  background-color: yellow;
 }
