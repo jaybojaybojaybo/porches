@@ -1,10 +1,40 @@
 h1 {
   color: red;
+  font-family: sans-serif;
+  font-weight: bolder;
 }
 
 .sidebar {
-  color: red;
-  width: 30%;
   float: left;
+  text-align: left;
+  color: red;
+  margin: 10px;
+  border: 2px solid black;
+  padding: 10px;
   background-color: yellow;
+}
+
+.upcoming-shows {
+  float: left;
+  text-align: left;
+  color: red;
+  margin: 10px;
+  border: 2px solid black;
+  padding: 10px;
+  background-color: yellow;
+}
+
+.header {
+  margin: 1%;
+  position: relative;
+  max-width: 100%;
+  height: auto;
+}
+
+.content {
+  float: left;
+  margin: 10px;
+  border: 2px solid black;
+  padding: 4px;
+  background color: gray;
 }
